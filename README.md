@@ -3,10 +3,9 @@
 1. **Voraussetzungen**:
 Dieses Projekt enthält ein Python-Skript, das ein Verzeichnis rekursiv durchsucht und die Validität von MP3- und MP4-Dateien überprüft sowie ungültige Zeichen in Dateipfaden bereinigt.
 Stellen Sie sicher, dass Python 3 installiert ist. Sie können die Installation von Python 3 wie folgt überprüfen:
-```sh
-python3 --version´´´
+python3 --version
 
-2. **Installation von Python 3**
+2. **Installation von Python 3**:
 Auf Windows
 
     Laden Sie das Installationsprogramm von der offiziellen Python-Website herunter.
