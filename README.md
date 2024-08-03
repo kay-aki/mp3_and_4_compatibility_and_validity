@@ -39,4 +39,4 @@ Eintippen:
 Enter drücken
     
 6. **Funktionen**: Kompatibilität der Dateinamen für Datenbanken und Korruptheit der MP3 und MP4 Dateien prüfen
-7. **Autor und Lizenz**: Autor: ChatGPT und Annika Schomber, Lizenz OpenSource CC, Allgemeineigentum
+7. **Autor und Lizenz**: Autor: ChatGPT und Annika Schomber, Lizenz ziehe License
